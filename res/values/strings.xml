@@ -113,5 +113,8 @@
         <string name="network_traffic_state_title">Network traffic</string>
         <string name="network_traffic_state_summary">Show net activity in statusbar</string>
         <string name="network_traffic_autohide_threshold_title">Net activity autohide threshold (KB/s)</string>
+        <!-- Brightness slide finger -->     
+    <string name="status_bar_brightness_control_title">Status Bar Brigtness Control</string>
+    <string name="status_bar_brightness_control_summary">Swipe left/right on Status Bar to decrease/increase brightness</string>
 
 </resources>

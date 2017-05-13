@@ -59,7 +59,7 @@ public class AdvancedSettings extends SettingsPreferenceFragment {
 
         View view = inflater.inflate(R.layout.qs_layout, container, false);
         mViewPager = (ViewPager) view.findViewById(R.id.qstab_viewpager);
-        mTabs = (PagerSlidingTabStrip) view.findViewById(R.id.qstab_tabs);
+        mTabs = (PagerSlidingTabStrip) view.findViewById(R.id.qstab_tabs);  
         mSectionsPagerAdapter = new SectionsPagerAdapter(getFragmentManager());
         mViewPager.setAdapter(mSectionsPagerAdapter);
         mTabs.setViewPager(mViewPager);
