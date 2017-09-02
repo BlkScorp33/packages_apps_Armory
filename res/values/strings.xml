@@ -38,4 +38,9 @@
     <!-- Face auto unlock -->
     <string name="face_auto_unlock_title">Face auto unlock</string>
     <string name="face_auto_unlock_summary">Dismiss lockscreen after face unlocking</string>
+
+    <!-- MTP Dirty Hack -->
+    <string name="enable_mtp_dirtyhack_title">MTP instead Charging</string>
+    <string name="enable_mtp_dirtyhack_summary">Enable MTP instead Charging after connect to PC</string>
+
 </resources>
