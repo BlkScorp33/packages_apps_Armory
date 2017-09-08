@@ -43,4 +43,6 @@
     <string name="enable_mtp_dirtyhack_title">MTP instead Charging</string>
     <string name="enable_mtp_dirtyhack_summary">Enable MTP instead Charging after connect to PC</string>
 
+    <!-- Statusbar Tuner -->
+    <string name="statusbar_items_title">Statusbar items</string>
 </resources>
