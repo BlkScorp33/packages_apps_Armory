@@ -17,10 +17,11 @@
 <PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:settings="http://schemas.android.com/apk/res/com.android.settings">
 
-    <Preference
+    <!--Preference
+>>>>>>> 3d758cc... Disable powernotifications. Need to check:res/xml/nitrogen_settings_notifications.xml
             android:title="@string/power_notification_title" >
             <intent android:action="android.intent.action.MAIN"
                 android:targetPackage="com.android.systemui"
                 android:targetClass="com.android.systemui.tuner.PowerActivity" />
-    </Preference>
+    </Preference-->
 </PreferenceScreen>
