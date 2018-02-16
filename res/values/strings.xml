@@ -26,4 +26,8 @@
         <string name="recents_settings_title">Recents</string>
         <string name="statusbar_settings_title">Status Bar</string>
 
+	<string name="statusbar_icons_title">Status Bar Icons</string>
+
+	<string name="statusbar_dt2s_title">Double Tap To Sleep</string>
+	<string name="statusbar_dt2s_summary">Double tap on the status bar to sleep</string>
 </resources>
